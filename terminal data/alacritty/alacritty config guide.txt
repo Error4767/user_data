@@ -1,0 +1,5 @@
+﻿// alacritty 配置文件放置位置
+// Windows
+%APPDATA%\alacritty\alacritty.yml
+// Linux & Mac 
+~/.config/alacritty/alacritty.yml
