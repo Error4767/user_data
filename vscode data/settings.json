@@ -1,0 +1,21 @@
+﻿{
+    "editor.tabSize": 4,
+    "fileheader.LastModifiedBy": "null",
+    "fileheader.Author": "null",
+    "terminal.integrated.rendererType": "dom",
+    "workbench.colorTheme": "Monokai",
+    "workbench.editor.enablePreview": false,// 关闭单击文件预览模式
+    "emmet.includeLanguages": {// emmet jsx
+        "javascript": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true,// 启动emmet Tab触发
+    "javascript.updateImportsOnFileMove.enabled": "never",// 文件更改提示选择是否更新导入
+    "javascript.implicitProjectConfig.experimentalDecorators": true,// 装饰器不再显示错误
+    "sync.autoUpload": false,
+    "editor.codeActionsOnSave": null,
+    "workbench.editor.wrapTabs": true,
+    "sync.gist": "96fdde0a27c377aecd6a1ad135a89178",
+    "workbench.iconTheme": "vscode-icons",
+    "projectManager.sortList": "Saved",
+    "editor.inlineSuggest.enabled": true
+}
