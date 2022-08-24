@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "metadata": {
       "id": "6e440e71-8ed9-4f25-bb78-4b13096b8a03",
@@ -47,7 +47,7 @@
     },
     "name": "code-spell-checker",
     "publisher": "streetsidesoftware",
-    "version": "2.5.4"
+    "version": "2.6.0"
   },
   {
     "metadata": {
@@ -121,6 +121,16 @@
   },
   {
     "metadata": {
+      "id": "f8d0ffc4-66bb-4a9c-8149-ef8f043691a1",
+      "publisherId": "bierner.markdown-mermaid",
+      "publisherDisplayName": "bierner"
+    },
+    "name": "markdown-mermaid",
+    "publisher": "bierner",
+    "version": "1.15.1"
+  },
+  {
+    "metadata": {
       "id": "3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a",
       "publisherId": "shd101wyy.markdown-preview-enhanced",
       "publisherDisplayName": "shd101wyy"
@@ -187,7 +197,7 @@
     },
     "name": "rust-analyzer",
     "publisher": "rust-lang",
-    "version": "0.3.1170"
+    "version": "0.3.1178"
   },
   {
     "metadata": {
@@ -208,6 +218,16 @@
     "name": "volar",
     "publisher": "Vue",
     "version": "0.40.1"
+  },
+  {
+    "metadata": {
+      "id": "4dd4cb5f-8946-4882-bf7c-e5997ab40481",
+      "publisherId": "kisstkondoros.vscode-codemetrics",
+      "publisherDisplayName": "kisstkondoros"
+    },
+    "name": "vscode-codemetrics",
+    "publisher": "kisstkondoros",
+    "version": "1.24.0"
   },
   {
     "metadata": {
@@ -277,7 +297,7 @@
     },
     "name": "vscode-language-pack-zh-hans",
     "publisher": "MS-CEINTL",
-    "version": "1.70.8100912"
+    "version": "1.70.8170916"
   },
   {
     "metadata": {
@@ -297,6 +317,6 @@
     },
     "name": "vscode-thunder-client",
     "publisher": "rangav",
-    "version": "1.18.6"
+    "version": "1.18.7"
   }
 ]

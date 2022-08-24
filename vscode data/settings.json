@@ -17,5 +17,8 @@
     "sync.gist": "96fdde0a27c377aecd6a1ad135a89178",
     "workbench.iconTheme": "vscode-icons",
     "projectManager.sortList": "Saved",
-    "editor.inlineSuggest.enabled": true
+    "editor.inlineSuggest.enabled": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "sync.forceDownload": false,
+    "sync.removeExtensions": false
 }
